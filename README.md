@@ -44,8 +44,8 @@ Model Evaluation
 Performance comparison:
 Score Comparison
 
-XGBoost                ██████████████████████ 72
-Baseline Model         ███████████████████    69
+XGBoost                ██████████████████████ 72  
+Baseline Model         ███████████████████    69  
 Graph Neural Network   █████████████████      67
 | Model | Score |
 |------|------|
@@ -151,8 +151,8 @@ XGBoost 模型
 模型表现对比：
 模型得分对比
 
-XGBoost                ██████████████████████ 72
-Baseline Model         ███████████████████    69
+XGBoost                ██████████████████████ 72  
+Baseline Model         ███████████████████    69  
 Graph Neural Network   █████████████████      67
 | 模型 | 得分 |
 |------|------|
