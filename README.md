@@ -19,7 +19,7 @@ The goal is to investigate whether incorporating **graph structure between stock
 
 ---
 
-## Project Pipeline
+Project Pipeline
 
 The workflow of this project is shown below:
 Raw Financial Data
