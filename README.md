@@ -24,20 +24,28 @@ Project Pipeline
 The workflow of this project is shown below:  
 
   Raw Financial Data
+  
+    ↓
+    
+    Data Cleaning & Preprocessing
   ↓
-  Data Cleaning & Preprocessing
+  
+    Feature Engineering
   ↓
-  Feature Engineering
+  
+    Baseline Model
   ↓
-  Baseline Model
+  
+    XGBoost Model
   ↓
-  XGBoost Model
+    
+    Graph Construction
   ↓
-  Graph Construction
+  
+    Graph Neural Network
   ↓
-  Graph Neural Network
-  ↓
-  Model Evaluation
+  
+    Model Evaluation
 ---
 
 ## Model Results
