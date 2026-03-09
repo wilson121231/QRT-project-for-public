@@ -105,7 +105,7 @@ Google Colab
 
 ---
 
-## Project Structure
+Project Structure
 QRT-project-for-public
 ├── baseline_model.ipynb
 ├── xgboost_model.ipynb
@@ -154,9 +154,12 @@ XGBoost 模型
 模型表现对比：
 模型得分对比
 
-XGBoost                ██████████████████████ 72  
-Baseline Model         ███████████████████    69  
-Graph Neural Network   █████████████████      67
+XGBoost                
+  ██████████████████████ 72  
+Baseline Model        
+  ███████████████████    69  
+Graph Neural Network  
+  █████████████████      67
 | 模型 | 得分 |
 |------|------|
 | Baseline | 69 |
