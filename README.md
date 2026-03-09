@@ -18,34 +18,24 @@ We implement and compare three models:
 The goal is to investigate whether incorporating **graph structure between stocks** can improve prediction performance.
 
 ---
-
-Project Pipeline
-
+## Project Pipeline
 The workflow of this project is shown below:  
-
   Raw Financial Data
-  
     ↓
-    
     Data Cleaning & Preprocessing
-  ↓
-  
-    Feature Engineering
-  ↓
-  
-    Baseline Model
-  ↓
-  
-    XGBoost Model
-  ↓
-    
-    Graph Construction
-  ↓
-  
-    Graph Neural Network
-  ↓
-  
-    Model Evaluation
+      ↓
+      Feature Engineering
+        ↓
+          Baseline Model
+            ↓
+              XGBoost Model
+              ↓
+              Graph Construction
+                ↓
+                Graph Neural Network
+                  ↓
+                  Model Evaluation
+                  
 ---
 
 ## Model Results
