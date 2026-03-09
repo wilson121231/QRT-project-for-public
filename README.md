@@ -21,19 +21,19 @@ The goal is to investigate whether incorporating **graph structure between stock
 ## Project Pipeline
 The workflow of this project is shown below:  
   Raw Financial Data
-    ↓
+    ->
     Data Cleaning & Preprocessing
-      ↓
+      ->
       Feature Engineering
-        ↓
+        ->
           Baseline Model
-            ↓
+            ->
               XGBoost Model
-              ↓
+              ->
               Graph Construction
-                ↓
+                ->
                 Graph Neural Network
-                  ↓
+                  ->
                   Model Evaluation
                   
 ---
@@ -102,14 +102,7 @@ PyTorch
 PyTorch Geometric  
 Google Colab  
 
----
 
-Project Structure
-QRT-project-for-public
-├── baseline_model.ipynb
-├── xgboost_model.ipynb
-├── gnn_model.ipynb
-└── README.md
 ---
 
 # 中文说明
@@ -132,19 +125,19 @@ QRT-project-for-public
 
 项目整体流程如下：
 原始金融数据
-↓
+->
 数据清洗与预处理
-↓
+->
 特征工程
-↓
+->
 Baseline 模型
-↓
+->
 XGBoost 模型
-↓
+->
 股票关系图构建
-↓
+->
 图神经网络（GNN）
-↓
+->
 模型评估与结果比较
 ---
 
