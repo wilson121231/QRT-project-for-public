@@ -21,22 +21,23 @@ The goal is to investigate whether incorporating **graph structure between stock
 
 Project Pipeline
 
-The workflow of this project is shown below:
-Raw Financial Data
-↓
-Data Cleaning & Preprocessing
-↓
-Feature Engineering
-↓
-Baseline Model
-↓
-XGBoost Model
-↓
-Graph Construction
-↓
-Graph Neural Network
-↓
-Model Evaluation
+The workflow of this project is shown below:  
+
+  Raw Financial Data
+  ↓
+  Data Cleaning & Preprocessing
+  ↓
+  Feature Engineering
+  ↓
+  Baseline Model
+  ↓
+  XGBoost Model
+  ↓
+  Graph Construction
+  ↓
+  Graph Neural Network
+  ↓
+  Model Evaluation
 ---
 
 ## Model Results
